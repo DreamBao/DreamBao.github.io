@@ -27,7 +27,11 @@ sass:
   style:            compressed
 
 # Comments
+<<<<<<< HEAD
 disqus_shortname:   DreamBao
+=======
+disqus_shortname:   DreamBan
+>>>>>>> origin/master
 
 # Social
 # if you don't have any of social below, comment the line.
