@@ -2,10 +2,14 @@
 layout: post
 title:  "反派大联盟项目"
 date:   2017-03-01
-excerpt: "A game project"
+excerpt: "A game project."
 project: true
 tag:
+- jekyll 
+- moon
 - blog
+- about
+- theme
 comments: true
 ---
 
