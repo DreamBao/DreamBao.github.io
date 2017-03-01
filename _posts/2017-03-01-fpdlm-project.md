@@ -1,45 +1,27 @@
 ---
 layout: post
-title:  "Test"
-date:   2016-04-06
-excerpt: "Test."
+title:  "反派大联盟"
+date:   2017-03-01
+excerpt: "A game project."
 project: true
 tag:
-- jekyll 
-- moon
 - blog
-- about
-- theme
+- game
 comments: true
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
-	 
-	sssssssss
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+<center><b>反派大联盟</b>是我第一个大型商业游戏项目</center>
+这是一款ARPG手游，其中汇聚了许多人物角色.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
 ## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
-
-
+* 目前可以在IOS应用商店上面下载《超能英雄》
 
 ## About 
-这是我第一个大型游戏项目,在此我会记录一些关于该项目踩的坑和学习心得
-
-
-
-
+在此我会记录一些关于该项目踩的坑和学习心得
 
 ## Preview
 
