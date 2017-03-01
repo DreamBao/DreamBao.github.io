@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Moon Homepage](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488390619725&di=0d871b4bb5264ac2af5c6389d897012c&imgtype=0&src=http%3A%2F%2Fp5.qhmsg.com%2Ft011e93ef805362113f.jpg)    
     
 <center><b>元素之刃</b></center>
 这是一款ARPG手游，其中汇聚了许多人物角色.
