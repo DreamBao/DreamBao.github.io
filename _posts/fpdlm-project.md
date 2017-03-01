@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "反派大联盟项目"
+date:   2017-03-01
+excerpt: "A game project"
 #project: true
 tag:
-- jekyll 
-- moon
 - blog
-- about
-- theme
 comments: true
 ---
 
@@ -31,6 +27,15 @@ comments: true
 * Change repo name to `YourUserName.github.io`    
      
 That's all.
+
+
+
+## About 
+这是我第一个大型游戏项目,在此我会记录一些关于该项目踩的坑和学习心得
+
+
+
+
 
 ## Preview
 
