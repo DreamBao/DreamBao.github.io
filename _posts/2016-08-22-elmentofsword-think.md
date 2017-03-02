@@ -10,10 +10,12 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488390619725&di=0d871b4bb5264ac2af5c6389d897012c&imgtype=0&src=http%3A%2F%2Fp5.qhmsg.com%2Ft011e93ef805362113f.jpg)    
+![Moon Homepage](https://dreambao.github.io/assets/img/reference/sword.jpg)    
     
 <center><b>元素之刃</b></center>
 这是一款ARPG手游，其中汇聚了许多人物角色.
+
+---
 
 ## Installation
 前两天总算拿到手了ipadpro，迫不及待的打开了appstore，不得不说的是苹果的推荐比安卓的真的要好的太多，几个相关的store推荐都相当有质量，我也是在排行榜中扫到了元素之刃这款游戏，说实话，刚看到就被

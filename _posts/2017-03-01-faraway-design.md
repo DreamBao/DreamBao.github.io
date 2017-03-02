@@ -10,10 +10,12 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://dreambao.github.io/assets/img/reference/sword.jpg)    
+![Moon Homepage](https://dreambao.github.io/assets/img/reference/gongfustory.jpg.jpg)    
     
 <center><b>万里遥-初章</b></center>
 这是我最开始想构造的一个武侠世界，准备当作小说来写，穿插一些游戏系统。
+
+---
 
 ## Content 
 今天终于决定了，要做第一个自己的游戏，故事背景定义在异世界的古代（类似唐朝，其实主要就是没货，担心犯一些历史常识），主角设定是被靖王朝灭国的亡国王子斜跨一柄木刀闯江湖的故事。
