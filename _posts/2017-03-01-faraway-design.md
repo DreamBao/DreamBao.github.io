@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Moon Homepage](https://dreambao.github.io/assets/img/bg.jpg)    
     
 <center><b>万里遥-初章</b></center>
 这是我最开始想构造的一个武侠世界，准备当作小说来写，穿插一些游戏系统。
