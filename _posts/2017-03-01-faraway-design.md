@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://dreambao.github.io/assets/img/reference/gongfustory.jpg.jpg)    
+![Moon Homepage](https://dreambao.github.io/assets/img/reference/gongfustory.jpg)    
     
 <center><b>万里遥-初章</b></center>
 这是我最开始想构造的一个武侠世界，准备当作小说来写，穿插一些游戏系统。

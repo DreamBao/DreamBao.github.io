@@ -13,7 +13,7 @@ comments: true
 ![Moon Homepage](https://dreambao.github.io/assets/img/reference/sword.jpg)    
     
 <center><b>元素之刃</b></center>
-这是一款ARPG手游，其中汇聚了许多人物角色.
+一个魔法剑士拯救世界的故事
 
 ---
 
