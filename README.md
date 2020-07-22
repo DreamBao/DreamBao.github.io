@@ -1,5 +1,5 @@
 # DreamBao Blog 
-
+记录日常胡思乱想
 
 **[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
